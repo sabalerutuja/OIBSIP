@@ -77,17 +77,17 @@ python password_generator.py
 
 ### 🏠 Home Screen
 
-![Home Screen](screenshots/pass_home.png)
+![Home Screen](./screenshots/pass_home.png)
 
 
 ### 🔐 Generated Password
 
-![Generated Password](screenshots/password.png)
+![Generated Password](./screenshots/password.png)
 
 
 ### 📜 Password History
 
-![Password History](screenshots/pass_history.png)
+![Password History](./screenshots/pass_history.png)
 
 🔒 Security
 
