@@ -82,8 +82,7 @@ python password_generator.py
 
 ### 🔐 Generated Password
 
-![Generated Password](screenshots/password
-png)
+![Generated Password](screenshots/password.png)
 
 
 ### 📜 Password History
